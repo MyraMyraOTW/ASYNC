@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AsyncTask</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="label">COMP 2160 [An application to guess a password in the background using AsyncTask]</string>
+    <string name="progress">*** Progress ***</string>
+    <string name="correct">*** CORRECT PASSWORD ***</string>
+    <string name="start">Start</string>
+</resources>
