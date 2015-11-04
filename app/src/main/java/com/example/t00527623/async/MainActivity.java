@@ -52,6 +52,7 @@ public class MainActivity extends AppCompatActivity {
             Log.d("NUM", count + " :: Random Password = " + check);
         }
 
+        setProgress("Done Tried: " + count + " times");
         setAnswer((int)check);
     }
 
